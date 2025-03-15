@@ -14,5 +14,4 @@ This project is a secure password generator that uses AES-256 encryption to gene
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/password-generator.git
-cd password-generator
+git clone https://github.com/yourusername/PasswordGenerator.git
